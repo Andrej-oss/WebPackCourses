@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<email>
+    <to>Me</to>
+    <from>Webpack</from>
+    <title>Course</title>
+    <body>Finished recording</body>
+</email>
